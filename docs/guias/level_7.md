@@ -16,7 +16,7 @@ El objetivo del supernetting es reducir la cantidad de información en la tabla 
 
 
 <div align=center>
-<img src="/assets/Level_7.png" alt="Index Banner" />
+<img src="/assets/Level_7.png" alt="Level_7" />
 </div>
 
 Contamos con 3 redes separadas:

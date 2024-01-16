@@ -145,12 +145,18 @@ function siderbar() {
         {
           text: "Tipos de redes",
           link: "/guias/basico/tipos",
-          collapsed: true,
         },
         {
           text: "Level 7",
           link: "/guias/level_7",
-          collapsed: true,
+        },
+        {
+          text: "Level 8",
+          link: "/guias/level_8",
+        },
+        {
+          text: "Level 9",
+          link: "/guias/level_9",
         },
         {
           text: "Ejemplos",
