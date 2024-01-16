@@ -142,10 +142,14 @@ function siderbar() {
 
           ]
         },
-
         {
-          text: "Toma",
-          link: "/guias/toma",
+          text: "Tipos de redes",
+          link: "/guias/basico/tipos",
+          collapsed: true,
+        },
+        {
+          text: "Level 7",
+          link: "/guias/level_7",
           collapsed: true,
         },
         {

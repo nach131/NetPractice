@@ -129,11 +129,11 @@
   --vp-c-bg: #002140; 
   /* --vp-c-bg: #2D3250;  */
    /* Fondo barra lateral */
-  --vp-c-bg-alt: #001427;
+  --vp-c-bg-alt: #00162B;
    /* Fondo menu pop */
-  --vp-c-bg-elv: #001427;
-   /* Fondo etiqueta creditos */
-  --vp-c-bg-soft: #001427;
+  --vp-c-bg-elv: #00162B;
+   /* Fondo etiqueta creditos y fondo tabla row */
+  --vp-c-bg-soft: #00162B;
   
   /* --vp-c-bg: #1b1b1f; */
   /* --vp-c-bg-alt: #161618; */
