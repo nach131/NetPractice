@@ -32,5 +32,5 @@ Como necesitamos direcciones para 3 redes separadas, es conveniente dividir los 
 En el ejemplo se ha decidido por una red `/26` que dispone de cuatro tramos de `62` hosts y dejando una red libre.
 
 ::: tip 
-Podria ser valido cualquier red superior a `/24`
+Podria ser valido cualquier red superior a `/24` que disponga como minimo 3 subredes.
 :::
