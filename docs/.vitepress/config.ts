@@ -143,8 +143,16 @@ function siderbar() {
           ]
         },
         {
+          text: "bc",
+          link: "/guias/bc",
+        },
+        {
           text: "Tipos de redes",
           link: "/guias/basico/tipos",
+        },
+        {
+          text: "Level 6",
+          link: "/guias/level_6",
         },
         {
           text: "Level 7",
@@ -159,16 +167,20 @@ function siderbar() {
           link: "/guias/level_9",
         },
         {
-          text: "Ejemplos",
-          link: "/guias/ejemplo/",
-          collapsed: true,
-          items: [
-            // {
-            //   text: "Style",
-            //   link: "/guias/ejemplo/style",
-            // }
-          ]
-        }
+          text: "Level 10",
+          link: "/guias/level_10",
+        },
+        // {
+        //   text: "Ejemplos",
+        //   link: "/guias/ejemplo/",
+        //   collapsed: true,
+        //   items: [
+        //     // {
+        //     //   text: "Style",
+        //     //   link: "/guias/ejemplo/style",
+        //     // }
+        //   ]
+        // }
       ],
     },
     {
