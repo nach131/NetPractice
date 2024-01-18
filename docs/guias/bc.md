@@ -27,7 +27,7 @@ echo "obase=2; 240" | bc
 11110000
 ```
 
-## Pasr binario a decimal
+## Pasar binario a decimal
 
 ```shell
 bc <<< "obase=10; ibase=2; 11100000"

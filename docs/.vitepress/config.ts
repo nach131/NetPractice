@@ -143,7 +143,7 @@ function siderbar() {
           ]
         },
         {
-          text: "bc",
+          text: "Basic calculator",
           link: "/guias/bc",
         },
         {
