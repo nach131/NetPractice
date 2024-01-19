@@ -6,7 +6,7 @@ head:
       content: Créditos del proyecto
   - - meta
     - name: og:title
-      content: Creditos - C++ 42 Projects
+      content: Creditos - NetPractice
 ---
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
@@ -15,7 +15,7 @@ const members = [
   {
     avatar: 'https://avatars.githubusercontent.com/u/53992512?v=4',
     name: 'Nacho Mota',
-    title: 'Fundador del proyecto',
+    // title: 'Fundador del proyecto',
     links: [
        { icon: 'github', link: 'https://github.com/nach131' },
       { icon: {

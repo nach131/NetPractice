@@ -29,7 +29,6 @@ export default {
       pattern: "https://github.com/nach131/NetPracticer/edit/main/docs/:path",
       text: "Editar esta página en GitHub",
     },
-
     search: {
       provider: "local",
       options: {
@@ -80,8 +79,8 @@ function metadata() {
       },
     ],
     ["meta", { name: "twitter:card", content: "summary" }],
-    ["link", { rel: "icon", href: "/C++_Logo.svg" }],
-    // ANALITYC GOOGLE
+    ["link", { rel: "icon", href: "/logo.png" }],
+    // // ANALITYC GOOGLE
     // [
     //   'script',
     //   { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-GFZ7EFNBGK' }
@@ -186,7 +185,6 @@ function siderbar() {
     {
       text: "",
       items: [
-        // { text: "Contribución", link: "/contribucion" },
         { text: "Creditos", link: "/creditos" },
       ],
     },
