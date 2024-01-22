@@ -26,4 +26,13 @@ $2^4=16$
 |135.162.86.32|135.162.86.33|135.162.86.46|135.162.86.47|
 |135.162.86.48|`135.162.86.34`|`135.162.86.62`|135.162.86.63|
 
-Utilizare el tercer lango de red para R (azul), el primer rango para D (naranga) y el segundo rango para C (verde)
+Utilizare el tercer rango de red para R (azul), el primer rango para D (naranga) y el segundo rango para C (verde)
+
+Ahora necesitamos dar conectividad a Internet a la red Naranja y Verde desde la tabla de enrutamiento `R1` necesitamos escalar la red a `/27` y asgignarle la dirrección de red que contenga la Naranja y la Verde, `135.162.86.0/27`.
+
+Las dos primeras redes de `/27` son:
+
+| Address | Inicio | Fin | Broadcasr |
+| :-: | :-: | :-: | :-: |
+|135.162.86.0|`135.162.86.1`|`135.162.86.30`|135.162.86.31|
+|135.162.86.32|`135.162.86.33`|`135.162.86.63`|135.162.86.63|
